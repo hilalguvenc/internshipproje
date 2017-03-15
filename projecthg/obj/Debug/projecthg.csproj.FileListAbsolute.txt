@@ -8,3 +8,13 @@ c:\users\hilal güvenç\documents\visual studio 2015\Projects\projecthg\projecth
 c:\users\hilal güvenç\documents\visual studio 2015\Projects\projecthg\projecthg\obj\Debug\projecthg.csproj.GenerateResource.Cache
 c:\users\hilal güvenç\documents\visual studio 2015\Projects\projecthg\projecthg\obj\Debug\projecthg.exe
 c:\users\hilal güvenç\documents\visual studio 2015\Projects\projecthg\projecthg\obj\Debug\projecthg.pdb
+D:\Desktop\MEHMET SEFA\Projelerim\VisualStudio\internshipproje\projecthg\bin\Debug\projecthg.exe.config
+D:\Desktop\MEHMET SEFA\Projelerim\VisualStudio\internshipproje\projecthg\obj\Debug\projecthg.exe
+D:\Desktop\MEHMET SEFA\Projelerim\VisualStudio\internshipproje\projecthg\obj\Debug\projecthg.pdb
+D:\Desktop\MEHMET SEFA\Projelerim\VisualStudio\internshipproje\projecthg\bin\Debug\projecthg.exe
+D:\Desktop\MEHMET SEFA\Projelerim\VisualStudio\internshipproje\projecthg\bin\Debug\projecthg.pdb
+D:\Desktop\MEHMET SEFA\Projelerim\VisualStudio\internshipproje\projecthg\obj\Debug\projecthg.csprojResolveAssemblyReference.cache
+D:\Desktop\MEHMET SEFA\Projelerim\VisualStudio\internshipproje\projecthg\obj\Debug\projecthg.ınternship.resources
+D:\Desktop\MEHMET SEFA\Projelerim\VisualStudio\internshipproje\projecthg\obj\Debug\projecthg.internship.resources
+D:\Desktop\MEHMET SEFA\Projelerim\VisualStudio\internshipproje\projecthg\obj\Debug\projecthg.Properties.Resources.resources
+D:\Desktop\MEHMET SEFA\Projelerim\VisualStudio\internshipproje\projecthg\obj\Debug\projecthg.csproj.GenerateResource.Cache
